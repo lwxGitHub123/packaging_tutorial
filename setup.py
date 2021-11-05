@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/lwxGitHub123/packaging_tutorial",
     project_urls={
-        "Bug Tracker": "https://github.com/lwxGitHub123/packaging_tutorial",
+        "Bug Tracker": "https://github.com/lwxGitHub123/packaging_tutorial/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
